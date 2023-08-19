@@ -1,1 +1,1 @@
-# gnr_650_iitb
+#This repo contains the Assignments of course GNR-650
