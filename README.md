@@ -1,1 +1,1 @@
-This repo contains the Codes & Papers of course GNR-650
+This repo contains the Codes & Papers Review of course GNR-650
